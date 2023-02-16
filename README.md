@@ -51,7 +51,7 @@ make prepare
 
 ### Build the Contract
 ```
-make build-contracts
+make build-contract
 ```
 
 ### Test
